@@ -1,2 +1,2 @@
 # Bayoo-docx-example
-### How to add comments in docx / how to find number of pages
+### How to find text in docs and add comments / and how to find number of pages
